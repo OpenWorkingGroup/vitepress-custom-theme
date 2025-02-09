@@ -1,3 +1,10 @@
+# Package mager log files
+pnpm-lock.yaml
+package-lock.json
+
+# VitePress cache output
+cache
+
 # Logs
 logs
 *.log
